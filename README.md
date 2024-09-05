@@ -1,2 +1,2 @@
 # Portfolio
-This contains all of my personal projects. 
+This contains few of my Python personal projects. 

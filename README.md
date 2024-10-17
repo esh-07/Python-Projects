@@ -3,6 +3,10 @@ This contains few of my Python personal projects. You can find multiple of my pa
 Some highlights you might find include:
 
 A text-based Hangman game that implements basic Python concepts like loops, conditionals, and string manipulation.
+
 Data analysis projects using libraries such as Pandas and NumPy, where I've explored various datasets and derived meaningful insights.
+
 Machine Learning models built with scikit-learn and TensorFlow, tackling problems in areas like image classification, natural language processing, or predictive analytics.
-Web scraping scripts that demonstrate my ability to collect and process data from online sources. 
+
+Web scraping scripts that demonstrate my ability to collect and process data from online sources.
+ 

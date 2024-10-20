@@ -9,4 +9,5 @@ Data analysis projects using libraries such as Pandas and NumPy, where I've expl
 Machine Learning models built with scikit-learn and TensorFlow, tackling problems in areas like image classification, natural language processing, or predictive analytics.
 
 Web scraping scripts that demonstrate my ability to collect and process data from online sources.
- 
+
+New changes will keep being made to these files or new files will keep being added. 
